@@ -1,0 +1,40 @@
+/* Estilos CSS para dar formato al currículum */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #333; /* Fondo oscuro */
+    color: #fff; /* Texto blanco */
+}
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #444; /* Fondo más oscuro */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Sombra */
+}
+.header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.header h1 {
+    margin-top: 0;
+}
+.main-content {
+    padding: 20px;
+}
+.section {
+    margin-bottom: 20px;
+}
+h2 {
+    margin-top: 0;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+}
